@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((base 2#base 10))
+echo $((BINARY base=10))
